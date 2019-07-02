@@ -195,7 +195,7 @@ input[type=submit]:active {
 /* -----------------------------------------------------------------------------------------------------*/
 
 header {
-	background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(images/foodgallery/healthyfood.jpeg);
+	background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(healthyfood.jpeg);
 	background-size: cover;
 	background-position: center;
 	height: 100vh;
@@ -392,7 +392,7 @@ header {
 /* -----------------------------------------------------------------------------------------------------*/
 
 .section-testimonials {
-	background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(images/foodgallery/back-customers.jpg);
+	background-image: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url(back-customers.jpg);
 	background-size: cover;
 	color: #fff;
 	background-attachment: fixed;
